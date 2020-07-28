@@ -23,4 +23,4 @@ Also, you can visit [finage.co.uk](finage.co.uk) to explore more.
 and then visit the **http://localhost:5000/convert/usd/gbp/100**
 
 
-You can visit [Finage's Blog][https://blog.finage.co.uk/2020/07/28/create-your-own-currency-converter-page-with-python-flask/] to get more information abot this project.
+You can visit [Finage's Blog](https://blog.finage.co.uk/2020/07/28/create-your-own-currency-converter-page-with-python-flask/) to get more information abot this project.
