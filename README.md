@@ -17,6 +17,7 @@ Also, you can visit [finage.co.uk](finage.co.uk) to explore more.
 
 ## Run the project
 `. venv/bin/activate`
+
 `flask run`
 
 and then visit the **http://localhost:5000/convert/usd/gbp/100**
