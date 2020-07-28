@@ -13,3 +13,13 @@ If you have any questions, please feel free to ask.
 
 
 Also, you can visit [finage.co.uk](finage.co.uk) to explore more.
+
+
+## Run the project
+`. venv/bin/activate`
+`flask run`
+
+and then visit the **http://localhost:5000/convert/usd/gbp/100**
+
+
+You can visit [Finage's Blog][https://blog.finage.co.uk/2020/07/28/create-your-own-currency-converter-page-with-python-flask/] to get more information abot this project.
